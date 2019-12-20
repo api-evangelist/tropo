@@ -1,0 +1,320 @@
+{
+    "id": "71a2ab5e70477497641d0fe9b9099c88",
+    "name": "Tropo",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "405dd7005724a18a1a1f578840046e46",
+            "name": "Delete Applications",
+            "url": "httpsapi.tropo.com\/v1\/\/applications",
+            "description": "Delete applications.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "delete",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "1dca802690b3a71970d887053a465c7a",
+            "name": "Get Applications",
+            "url": "httpsapi.tropo.com\/v1\/\/applications",
+            "description": "Get applications.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "cc73fd3b69227952a8d78c22b4a4193f",
+            "name": "Post Applications",
+            "url": "httpsapi.tropo.com\/v1\/\/applications",
+            "description": "Post applications.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "0bad7f655eda1b7a8dc35ba57559b095",
+            "name": "Put Applications",
+            "url": "httpsapi.tropo.com\/v1\/\/applications",
+            "description": "Put applications.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "put",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "65acc24778764f96c59ca77638d5f43c",
+            "name": "Delete Applications Appid Addresses",
+            "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
+            "description": "Delete applications appid addresses.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "delete",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "AppId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "applicationId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "d6cd98113f956352818710f1e709675d",
+            "name": "Get Applications Appid Addresses",
+            "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
+            "description": "Get applications appid addresses.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "AppId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "applicationId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "88eb8baf127ea525045282de2358d4a4",
+            "name": "Post Applications Appid Addresses",
+            "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
+            "description": "Post applications appid addresses.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "AppId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "applicationId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "c3903246eb54672d9142f57aefa2c242",
+            "name": "Get Exchanges",
+            "url": "httpsapi.tropo.com\/v1\/\/exchanges",
+            "description": "Get exchanges.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "applicationId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        },
+        {
+            "id": "3ef658d68b7d204fd2ab9574b5731357",
+            "name": "Post Sessions",
+            "url": "httpsapi.tropo.com\/v1\/\/sessions",
+            "description": "Post sessions.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "Content",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "rawModeData": ""
+        }
+    ]
+}
