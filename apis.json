@@ -12,8 +12,8 @@
         "telecommunications",
         "webhook implementations"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tropo\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -31,13 +31,17 @@
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tropo-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tropo\/master\/tropo-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "https:\/\/api.tropo.com"
