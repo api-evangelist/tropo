@@ -1,5 +1,5 @@
 {
-    "id": "71a2ab5e70477497641d0fe9b9099c88",
+    "id": "16efa501237fd95539a9a6b626f3beed",
     "name": "Tropo",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "405dd7005724a18a1a1f578840046e46",
+            "id": "67673ff5e8a2954a6badce05200a760f",
             "name": "Delete Applications",
             "url": "httpsapi.tropo.com\/v1\/\/applications",
             "description": "Delete applications.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "1dca802690b3a71970d887053a465c7a",
+            "id": "29b71e21a78f7e2b250a533663a48185",
             "name": "Get Applications",
             "url": "httpsapi.tropo.com\/v1\/\/applications",
             "description": "Get applications.",
@@ -68,11 +68,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "cc73fd3b69227952a8d78c22b4a4193f",
+            "id": "ef47c1d838e9e0c6f238db3d36fa9b2b",
             "name": "Post Applications",
             "url": "httpsapi.tropo.com\/v1\/\/applications",
             "description": "Post applications.",
@@ -99,11 +99,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "0bad7f655eda1b7a8dc35ba57559b095",
+            "id": "0edd7b6354dca157a59e59a69998a58d",
             "name": "Put Applications",
             "url": "httpsapi.tropo.com\/v1\/\/applications",
             "description": "Put applications.",
@@ -130,11 +130,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "65acc24778764f96c59ca77638d5f43c",
+            "id": "e8762dc39dd032082a2ad7d2d26be869",
             "name": "Delete Applications Appid Addresses",
             "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
             "description": "Delete applications appid addresses.",
@@ -168,11 +168,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "d6cd98113f956352818710f1e709675d",
+            "id": "a566ac44c1ec58d1381a8e907f6b795f",
             "name": "Get Applications Appid Addresses",
             "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
             "description": "Get applications appid addresses.",
@@ -206,11 +206,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "88eb8baf127ea525045282de2358d4a4",
+            "id": "0af5adf68c086ad09f2cad901616a045",
             "name": "Post Applications Appid Addresses",
             "url": "httpsapi.tropo.com\/v1\/\/applications\/{AppId}\/addresses",
             "description": "Post applications appid addresses.",
@@ -251,11 +251,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "c3903246eb54672d9142f57aefa2c242",
+            "id": "43df2a2d0b0b294bb5369421876514ff",
             "name": "Get Exchanges",
             "url": "httpsapi.tropo.com\/v1\/\/exchanges",
             "description": "Get exchanges.",
@@ -282,11 +282,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         },
         {
-            "id": "3ef658d68b7d204fd2ab9574b5731357",
+            "id": "67fd9faa0dc4bde1b9dc30cbffa98d60",
             "name": "Post Sessions",
             "url": "httpsapi.tropo.com\/v1\/\/sessions",
             "description": "Post sessions.",
@@ -313,7 +313,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "71a2ab5e70477497641d0fe9b9099c88",
+            "collectionId": "16efa501237fd95539a9a6b626f3beed",
             "rawModeData": ""
         }
     ]
